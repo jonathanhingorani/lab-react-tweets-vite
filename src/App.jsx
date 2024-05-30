@@ -37,7 +37,7 @@ const tweetsArray = [
   },
 ];
 
-function App() {
+function App(props) {
   return (
     <div className="App">
       <Tweet />
